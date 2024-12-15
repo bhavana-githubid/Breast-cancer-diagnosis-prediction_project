@@ -26,6 +26,8 @@ The project includes the following steps:
     - Decision Tree
     - Random Forest
     - Support Vector Machine (SVM)
+    - Naive Bayes
+    - KNN
 4. **Model Evaluation**:
     - Accuracy
     - Precision, Recall, F1-score
@@ -40,11 +42,13 @@ The project follows these steps:
 
 ## Results
 - The models achieved the following accuracies:
-  - **Logistic Regression**: ~96%
-  - **Decision Tree**: ~93%
-  - **Random Forest**: ~98%
+  - **Logistic Regression**: ~97%
+  - **Decision Tree**: ~95%
+  - **Random Forest**: ~96%
   - **SVM**: ~98%
+  - **Naive Bayes**: ~96%
+  - **KNN**: ~95%
 
-Random Forest and SVM emerged as the top-performing models with high precision and recall.
+SVM emerged as the top-performing model with high accuracy.
 
 
